@@ -33,7 +33,7 @@ footer p {
 header {
   background: #C8C1B7;
   border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background-image: url("../img/Banner.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
